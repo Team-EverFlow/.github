@@ -3,4 +3,4 @@
 
 <hr>
 
-박지영 서상태 이용현 이지혜 한경준 홍지환<br>
+[박지영](https://github.com/Mule129) | [서상태](https://github.com/SeoSangtae001027) | [이용현](https://github.com/gunyu1019) | [이지혜](https://github.com/2jihye10) | [한경준](https://github.com/HanGyeongjun) | [홍지환](https://github.com/r-u-sure)<br>
